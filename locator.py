@@ -1,0 +1,18 @@
+close_advertisement = "//button[@class='close close-popup-contact']"
+product_category = "//div[@class='danhmucsanpham']"
+pharmaceutical_cosmetics = "//a[@href='/collections/duoc-my-pham']//span[@class='textcata']"
+product = "//img[contains(@alt, 'Sữa Rửa Mặt') and contains(@src, 'olive-cleansing-foam')]"
+add_to_cart = "//div[@class='datacartnow']/a[@href='test' and @dataid='1121628104']"
+shopping_cart = "//a[@id='site-cart-handle']"
+add_quantity = "(//button[@class='qty-btn mnc-plus'])[2]"
+checkout_button = "//a[@href='/checkout']"
+input_fullname = "//input[@id='billing_address_full_name']"
+input_email = "//input[@id='checkout_user_email']"
+input_address = "//input[@id='billing_address_address1']"
+input_phone = "//input[@id='billing_address_phone']"
+select_province = "//select[@id='customer_shipping_province']/option[@value='32']"
+select_district = "//select[@id='customer_shipping_district']/option[@value='360']"
+select_ward = "//select[@id='customer_shipping_ward']/option[@value='20239']"
+next_button = "//form[@id='form_next_step']"
+
+
